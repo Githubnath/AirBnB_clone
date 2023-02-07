@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Nathaniel Emenike | Github: [Githubnath](mailto:emenike.nathaniel@gmail.com) 
+Nathaniel Emenike | Github; [Githubnath](mailto:emenike.nathaniel@gmail.com) 
 
-Nzemeka Akponor | Github: [Badpet03](mailto:vakponor@gmail.com)
+Nzemeka Akponor | Github; [Badpet03](mailto:vakponor@gmail.com)
